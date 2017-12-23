@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\EditorBackend\bin\Debug\netcoreapp2.0\EditorBackend.deps.json
+c:\Users\Administrator\Desktop\EditorBackend\bin\Debug\netcoreapp2.0\EditorBackend.runtimeconfig.json
+c:\Users\Administrator\Desktop\EditorBackend\bin\Debug\netcoreapp2.0\EditorBackend.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\EditorBackend\bin\Debug\netcoreapp2.0\EditorBackend.dll
+c:\Users\Administrator\Desktop\EditorBackend\bin\Debug\netcoreapp2.0\EditorBackend.pdb
+c:\Users\Administrator\Desktop\EditorBackend\obj\Debug\netcoreapp2.0\EditorBackend.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\EditorBackend\obj\Debug\netcoreapp2.0\EditorBackend.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\EditorBackend\obj\Debug\netcoreapp2.0\EditorBackend.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\EditorBackend\obj\Debug\netcoreapp2.0\EditorBackend.dll
+c:\Users\Administrator\Desktop\EditorBackend\obj\Debug\netcoreapp2.0\EditorBackend.pdb
